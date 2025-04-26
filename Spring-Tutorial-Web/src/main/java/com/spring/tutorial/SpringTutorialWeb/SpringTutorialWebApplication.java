@@ -1,4 +1,4 @@
-package com.spring.tutorial.Spring_Tutorial_Web;
+package com.spring.tutorial.SpringTutorialWeb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
